@@ -32,5 +32,6 @@ The requirements are as follows:
 
 - Full Continuous Deployment pipeline.
 - Infrastructure setup using Terraform.
+- application that we can run using docker-compose up.
 
 you can fork this repository and start working on it.
